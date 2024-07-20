@@ -1,0 +1,702 @@
+[
+    {
+      "Rank": 1,
+      "bankName": "JPMorgan Chase",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$3,246",
+      "Market capitalization\n(billions of US$)[3]": "$401.24"
+    },
+    {
+      "Rank": 2,
+      "bankName": "Bank of America",
+      "Headquarters location": "Charlotte, North Carolina",
+      "Total assets\n(billions of US$)[2]": "$2,738",
+      "Market capitalization\n(billions of US$)[3]": "$267.66"
+    },
+    {
+      "Rank": 3,
+      "bankName": "Citigroup",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$2,234",
+      "Market capitalization\n(billions of US$)[3]": "$126.81"
+    },
+    {
+      "Rank": 4,
+      "bankName": "Wells Fargo",
+      "Headquarters location": "San Francisco, California",
+      "Total assets\n(billions of US$)[2]": "$1,992",
+      "Market capitalization\n(billions of US$)[3]": "$130.04"
+    },
+    {
+      "Rank": 5,
+      "bankName": "Goldman Sachs",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$1,132",
+      "Market capitalization\n(billions of US$)[3]": "$96.95"
+    },
+    {
+      "Rank": 6,
+      "bankName": "Morgan Stanley",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$955",
+      "Market capitalization\n(billions of US$)[3]": "$128.81"
+    },
+    {
+      "Rank": 7,
+      "bankName": "U.S. Bancorp",
+      "Headquarters location": "Minneapolis, Minnesota",
+      "Total assets\n(billions of US$)[2]": "$540",
+      "Market capitalization\n(billions of US$)[3]": "$68.08"
+    },
+    {
+      "Rank": 8,
+      "bankName": "Truist Financial",
+      "Headquarters location": "Charlotte, North Carolina",
+      "Total assets\n(billions of US$)[2]": "$499",
+      "Market capitalization\n(billions of US$)[3]": "$67.77"
+    },
+    {
+      "Rank": 9,
+      "bankName": "TD Bank, N.A.",
+      "Headquarters location": "Wilmington, Delaware",
+      "Total assets\n(billions of US$)[2]": "$488",
+      "Market capitalization\n(billions of US$)[3]": "$105.70"
+    },
+    {
+      "Rank": 10,
+      "bankName": "PNC Financial Services",
+      "Headquarters location": "Pittsburgh, Pennsylvania",
+      "Total assets\n(billions of US$)[2]": "$461",
+      "Market capitalization\n(billions of US$)[3]": "$62.78"
+    },
+    {
+      "Rank": 11,
+      "bankName": "The Bank of New York Mellon",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$428",
+      "Market capitalization\n(billions of US$)[3]": "$36.66"
+    },
+    {
+      "Rank": 12,
+      "bankName": "Capital One",
+      "Headquarters location": "McLean, Virginia",
+      "Total assets\n(billions of US$)[2]": "$421",
+      "Market capitalization\n(billions of US$)[3]": "$45.71"
+    },
+    {
+      "Rank": 13,
+      "bankName": "Charles Schwab Corporation",
+      "Headquarters location": "San Francisco, California",
+      "Total assets\n(billions of US$)[2]": "$419",
+      "Market capitalization\n(billions of US$)[3]": "$105.62"
+    },
+    {
+      "Rank": 14,
+      "bankName": "TIAA",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$321",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 15,
+      "bankName": "State Street Corporation",
+      "Headquarters location": "Boston, Massachusetts",
+      "Total assets\n(billions of US$)[2]": "$272",
+      "Market capitalization\n(billions of US$)[3]": "$25.65"
+    },
+    {
+      "Rank": 16,
+      "bankName": "HSBC Bank USA",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$264",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 17,
+      "bankName": "Fifth Third Bank",
+      "Headquarters location": "Cincinnati, Ohio",
+      "Total assets\n(billions of US$)[2]": "$201",
+      "Market capitalization\n(billions of US$)[3]": "$21.21"
+    },
+    {
+      "Rank": 18,
+      "bankName": "USAA",
+      "Headquarters location": "San Antonio, Texas",
+      "Total assets\n(billions of US$)[2]": "$193",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 19,
+      "bankName": "American Express",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$187",
+      "Market capitalization\n(billions of US$)[3]": "$93.52"
+    },
+    {
+      "Rank": 20,
+      "bankName": "State Farm",
+      "Headquarters location": "Bloomington, Illinois",
+      "Total assets\n(billions of US$)[2]": "$186",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 21,
+      "bankName": "BMO Harris Bank",
+      "Headquarters location": "Chicago, Illinois",
+      "Total assets\n(billions of US$)[2]": "$186",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 22,
+      "bankName": "Ally Financial",
+      "Headquarters location": "Detroit, Michigan",
+      "Total assets\n(billions of US$)[2]": "$185",
+      "Market capitalization\n(billions of US$)[3]": "$14.49"
+    },
+    {
+      "Rank": 23,
+      "bankName": "Citizens Financial Group",
+      "Headquarters location": "Providence, Rhode Island",
+      "Total assets\n(billions of US$)[2]": "$179",
+      "Market capitalization\n(billions of US$)[3]": "$15.83"
+    },
+    {
+      "Rank": 24,
+      "bankName": "KeyCorp",
+      "Headquarters location": "Cleveland, Ohio",
+      "Total assets\n(billions of US$)[2]": "$171",
+      "Market capitalization\n(billions of US$)[3]": 17.04
+    },
+    {
+      "Rank": 25,
+      "bankName": "MUFG Union Bank",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$164",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 26,
+      "bankName": "UBS",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$159",
+      "Market capitalization\n(billions of US$)[3]": "$53.83"
+    },
+    {
+      "Rank": 27,
+      "bankName": "Ameriprise",
+      "Headquarters location": "Minneapolis, Minnesota",
+      "Total assets\n(billions of US$)[2]": "$158",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 28,
+      "bankName": "Barclays",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$156",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 29,
+      "bankName": "Northern Trust",
+      "Headquarters location": "Chicago, Illinois",
+      "Total assets\n(billions of US$)[2]": "$152",
+      "Market capitalization\n(billions of US$)[3]": "$19.50"
+    },
+    {
+      "Rank": 30,
+      "bankName": "Santander Bank",
+      "Headquarters location": "Boston, Massachusetts",
+      "Total assets\n(billions of US$)[2]": "$145",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 31,
+      "bankName": "Regions Financial Corporation",
+      "Headquarters location": "Birmingham, Alabama",
+      "Total assets\n(billions of US$)[2]": "$145",
+      "Market capitalization\n(billions of US$)[3]": "$17.05"
+    },
+    {
+      "Rank": 32,
+      "bankName": "RBC Bank",
+      "Headquarters location": "Toronto, Ontario",
+      "Total assets\n(billions of US$)[2]": "$142",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 33,
+      "bankName": "M&T Bank",
+      "Headquarters location": "Buffalo, New York",
+      "Total assets\n(billions of US$)[2]": "$138",
+      "Market capitalization\n(billions of US$)[3]": "$17.61"
+    },
+    {
+      "Rank": 34,
+      "bankName": "BNP Paribas / Bank of the West",
+      "Headquarters location": "San Francisco, California",
+      "Total assets\n(billions of US$)[2]": "$137",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 35,
+      "bankName": "Credit Suisse",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$124",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 36,
+      "bankName": "Discover Financial",
+      "Headquarters location": "Riverwoods, Illinois",
+      "Total assets\n(billions of US$)[2]": "$124",
+      "Market capitalization\n(billions of US$)[3]": "$26.65"
+    },
+    {
+      "Rank": 37,
+      "bankName": "Huntington Bancshares",
+      "Headquarters location": "Columbus, Ohio",
+      "Total assets\n(billions of US$)[2]": "$120",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 38,
+      "bankName": "Deutsche Bank",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$119",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 39,
+      "bankName": "BBVA USA",
+      "Headquarters location": "Birmingham, Alabama",
+      "Total assets\n(billions of US$)[2]": "$103",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 40,
+      "bankName": "Silicon Valley Bank",
+      "Headquarters location": "Santa Clara, California",
+      "Total assets\n(billions of US$)[2]": "$97",
+      "Market capitalization\n(billions of US$)[3]": "$25.02"
+    },
+    {
+      "Rank": 41,
+      "bankName": "Synchrony Financial",
+      "Headquarters location": "Stamford, Connecticut",
+      "Total assets\n(billions of US$)[2]": "$95",
+      "Market capitalization\n(billions of US$)[3]": "$20.66"
+    },
+    {
+      "Rank": 42,
+      "bankName": "Comerica",
+      "Headquarters location": "Dallas, Texas",
+      "Total assets\n(billions of US$)[2]": "$84",
+      "Market capitalization\n(billions of US$)[3]": "$8.37"
+    },
+    {
+      "Rank": 43,
+      "bankName": "First Horizon National Corporation",
+      "Headquarters location": "Memphis, Tennessee",
+      "Total assets\n(billions of US$)[2]": "$83",
+      "Market capitalization\n(billions of US$)[3]": "$7.78"
+    },
+    {
+      "Rank": 44,
+      "bankName": "E-Trade",
+      "Headquarters location": "Arlington, Virginia",
+      "Total assets\n(billions of US$)[2]": "$71",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 45,
+      "bankName": "Popular, Inc.",
+      "Headquarters location": "San Juan, Puerto Rico",
+      "Total assets\n(billions of US$)[2]": "$66",
+      "Market capitalization\n(billions of US$)[3]": "$4.85"
+    },
+    {
+      "Rank": 46,
+      "bankName": "CIT Group",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$61",
+      "Market capitalization\n(billions of US$)[3]": "$3.79"
+    },
+    {
+      "Rank": 47,
+      "bankName": "People's United Financial",
+      "Headquarters location": "Bridgeport, Connecticut",
+      "Total assets\n(billions of US$)[2]": "$60",
+      "Market capitalization\n(billions of US$)[3]": "$6.14"
+    },
+    {
+      "Rank": 48,
+      "bankName": "New York Community Bank",
+      "Headquarters location": "Westbury, New York",
+      "Total assets\n(billions of US$)[2]": "$54",
+      "Market capitalization\n(billions of US$)[3]": "$5.09"
+    },
+    {
+      "Rank": 49,
+      "bankName": "CIBC Bank USA",
+      "Headquarters location": "Chicago, Illinois",
+      "Total assets\n(billions of US$)[2]": "$53",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 50,
+      "bankName": "Synovus",
+      "Headquarters location": "Columbus, Georgia",
+      "Total assets\n(billions of US$)[2]": "$53",
+      "Market capitalization\n(billions of US$)[3]": "$5.59"
+    },
+    {
+      "Rank": 51,
+      "bankName": "East West Bank",
+      "Headquarters location": "Pasadena, California",
+      "Total assets\n(billions of US$)[2]": "$50",
+      "Market capitalization\n(billions of US$)[3]": "$8.61"
+    },
+    {
+      "Rank": 52,
+      "bankName": "First Citizens BancShares",
+      "Headquarters location": "Raleigh, North Carolina",
+      "Total assets\n(billions of US$)[2]": "$49",
+      "Market capitalization\n(billions of US$)[3]": "$5.92"
+    },
+    {
+      "Rank": 53,
+      "bankName": "Mizuho Financial Group",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$48",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 54,
+      "bankName": "TCF Financial",
+      "Headquarters location": "Detroit, Michigan",
+      "Total assets\n(billions of US$)[2]": "$48",
+      "Market capitalization\n(billions of US$)[3]": "$6.12"
+    },
+    {
+      "Rank": 55,
+      "bankName": "Raymond James Financial",
+      "Headquarters location": "St. Petersburg, Florida",
+      "Total assets\n(billions of US$)[2]": "$47",
+      "Market capitalization\n(billions of US$)[3]": "$13.58"
+    },
+    {
+      "Rank": 56,
+      "bankName": "BOK Financial Corporation",
+      "Headquarters location": "Tulsa, Oklahoma",
+      "Total assets\n(billions of US$)[2]": "$46",
+      "Market capitalization\n(billions of US$)[3]": "$5.41"
+    },
+    {
+      "Rank": 57,
+      "bankName": "Wintrust Financial",
+      "Headquarters location": "Rosemont, Illinois",
+      "Total assets\n(billions of US$)[2]": "$43",
+      "Market capitalization\n(billions of US$)[3]": "$3.63"
+    },
+    {
+      "Rank": 58,
+      "bankName": "John Deere Capital Corporation",
+      "Headquarters location": "Reno, Nevada",
+      "Total assets\n(billions of US$)[2]": "$42",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 59,
+      "bankName": "Valley National Bank",
+      "Headquarters location": "Wayne, New Jersey",
+      "Total assets\n(billions of US$)[2]": "$41",
+      "Market capitalization\n(billions of US$)[3]": "$4.34"
+    },
+    {
+      "Rank": 60,
+      "bankName": "Frost Bank",
+      "Headquarters location": "San Antonio, Texas",
+      "Total assets\n(billions of US$)[2]": "$40",
+      "Market capitalization\n(billions of US$)[3]": "$6.09"
+    },
+    {
+      "Rank": 61,
+      "bankName": "Texas Capital Bank",
+      "Headquarters location": "Dallas, Texas",
+      "Total assets\n(billions of US$)[2]": "$38",
+      "Market capitalization\n(billions of US$)[3]": "$3.21"
+    },
+    {
+      "Rank": 62,
+      "bankName": "South State Bank",
+      "Headquarters location": "Columbia, South Carolina",
+      "Total assets\n(billions of US$)[2]": "$38",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 63,
+      "bankName": "FNB Corporation",
+      "Headquarters location": "Pittsburgh, Pennsylvania",
+      "Total assets\n(billions of US$)[2]": "$37",
+      "Market capitalization\n(billions of US$)[3]": "$3.30"
+    },
+    {
+      "Rank": 64,
+      "bankName": "BankUnited",
+      "Headquarters location": "Miami Lakes, Florida",
+      "Total assets\n(billions of US$)[2]": "$35",
+      "Market capitalization\n(billions of US$)[3]": "$3.32"
+    },
+    {
+      "Rank": 65,
+      "bankName": "Associated Banc-Corp",
+      "Headquarters location": "Green Bay, Wisconsin",
+      "Total assets\n(billions of US$)[2]": "$34.60",
+      "Market capitalization\n(billions of US$)[3]": "$2.89"
+    },
+    {
+      "Rank": 66,
+      "bankName": "Pinnacle Financial Partners",
+      "Headquarters location": "Nashville, Tennessee",
+      "Total assets\n(billions of US$)[2]": "$34",
+      "Market capitalization\n(billions of US$)[3]": "$5.54"
+    },
+    {
+      "Rank": 67,
+      "bankName": "Western Alliance Bank",
+      "Headquarters location": "Phoenix, Arizona",
+      "Total assets\n(billions of US$)[2]": "$33.90",
+      "Market capitalization\n(billions of US$)[3]": "$7.01"
+    },
+    {
+      "Rank": 68,
+      "bankName": "Prosperity Bancshares",
+      "Headquarters location": "Houston, Texas",
+      "Total assets\n(billions of US$)[2]": "$33.30",
+      "Market capitalization\n(billions of US$)[3]": "$6.34"
+    },
+    {
+      "Rank": 69,
+      "bankName": "Hancock Whitney",
+      "Headquarters location": "Gulfport, Mississippi",
+      "Total assets\n(billions of US$)[2]": "$33.20",
+      "Market capitalization\n(billions of US$)[3]": "$3.16"
+    },
+    {
+      "Rank": 70,
+      "bankName": "Webster Bank",
+      "Headquarters location": "Waterbury, Connecticut",
+      "Total assets\n(billions of US$)[2]": "$33",
+      "Market capitalization\n(billions of US$)[3]": "$4.54"
+    },
+    {
+      "Rank": 71,
+      "bankName": "Commerce Bancshares",
+      "Headquarters location": "Kansas City, Missouri",
+      "Total assets\n(billions of US$)[2]": "$31",
+      "Market capitalization\n(billions of US$)[3]": "$8.20"
+    },
+    {
+      "Rank": 72,
+      "bankName": "Sterling Bancorp",
+      "Headquarters location": "Montebello, New York",
+      "Total assets\n(billions of US$)[2]": "$30.60",
+      "Market capitalization\n(billions of US$)[3]": "$3.73"
+    },
+    {
+      "Rank": 73,
+      "bankName": "UMB Financial Corporation",
+      "Headquarters location": "Kansas City, Missouri",
+      "Total assets\n(billions of US$)[2]": "$30.20",
+      "Market capitalization\n(billions of US$)[3]": "$3.46"
+    },
+    {
+      "Rank": 74,
+      "bankName": "Flagstar Bank",
+      "Headquarters location": "Troy, Michigan",
+      "Total assets\n(billions of US$)[2]": "$29.50",
+      "Market capitalization\n(billions of US$)[3]": "$2.48"
+    },
+    {
+      "Rank": 75,
+      "bankName": "Umpqua Holdings Corporation",
+      "Headquarters location": "Portland, Oregon",
+      "Total assets\n(billions of US$)[2]": "$29.40",
+      "Market capitalization\n(billions of US$)[3]": "$3.41"
+    },
+    {
+      "Rank": 76,
+      "bankName": "PacWest Bancorp",
+      "Headquarters location": "Los Angeles, California",
+      "Total assets\n(billions of US$)[2]": "$28.40",
+      "Market capitalization\n(billions of US$)[3]": "$3.66"
+    },
+    {
+      "Rank": 77,
+      "bankName": "MidFirst Bank",
+      "Headquarters location": "Oklahoma City, Oklahoma",
+      "Total assets\n(billions of US$)[2]": "$28.10",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 78,
+      "bankName": "Investors Bank",
+      "Headquarters location": "Short Hills, New Jersey",
+      "Total assets\n(billions of US$)[2]": "$26.60",
+      "Market capitalization\n(billions of US$)[3]": "$2.88"
+    },
+    {
+      "Rank": 79,
+      "bankName": "United Bank (West Virginia)",
+      "Headquarters location": "Charleston, West Virginia",
+      "Total assets\n(billions of US$)[2]": "$26",
+      "Market capitalization\n(billions of US$)[3]": "$4.35"
+    },
+    {
+      "Rank": 80,
+      "bankName": "Stifel",
+      "Headquarters location": "St. Louis, Missouri",
+      "Total assets\n(billions of US$)[2]": "$25.60",
+      "Market capitalization\n(billions of US$)[3]": "$5.30"
+    },
+    {
+      "Rank": 81,
+      "bankName": "Fulton Financial Corporation",
+      "Headquarters location": "Lancaster, Pennsylvania",
+      "Total assets\n(billions of US$)[2]": "$25.50",
+      "Market capitalization\n(billions of US$)[3]": "$2.31"
+    },
+    {
+      "Rank": 82,
+      "bankName": "Sumitomo Mitsui Financial Group",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$24.70",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 83,
+      "bankName": "First National of Nebraska",
+      "Headquarters location": "Omaha, Nebraska",
+      "Total assets\n(billions of US$)[2]": "$24.20",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 84,
+      "bankName": "Arvest Bank",
+      "Headquarters location": "Bentonville, Arkansas",
+      "Total assets\n(billions of US$)[2]": "$24",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 85,
+      "bankName": "FirstBank Holding Co",
+      "Headquarters location": "Lakewood, Colorado",
+      "Total assets\n(billions of US$)[2]": "$23.50",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 86,
+      "bankName": "Old National Bank",
+      "Headquarters location": "Evansville, Indiana",
+      "Total assets\n(billions of US$)[2]": "$22.40",
+      "Market capitalization\n(billions of US$)[3]": "$2.90"
+    },
+    {
+      "Rank": 87,
+      "bankName": "First Hawaiian Bank",
+      "Headquarters location": "Honolulu, Hawaii",
+      "Total assets\n(billions of US$)[2]": "$22.30",
+      "Market capitalization\n(billions of US$)[3]": "$3.13"
+    },
+    {
+      "Rank": 88,
+      "bankName": "Simmons Bank",
+      "Headquarters location": "Pine Bluff, Arkansas",
+      "Total assets\n(billions of US$)[2]": "$21.40",
+      "Market capitalization\n(billions of US$)[3]": "$2.79"
+    },
+    {
+      "Rank": 89,
+      "bankName": "First Midwest Bank",
+      "Headquarters location": "Chicago, Illinois",
+      "Total assets\n(billions of US$)[2]": "$21",
+      "Market capitalization\n(billions of US$)[3]": "$1.99"
+    },
+    {
+      "Rank": 90,
+      "bankName": "Bank of Hawaii",
+      "Headquarters location": "Honolulu, Hawaii",
+      "Total assets\n(billions of US$)[2]": "$20",
+      "Market capitalization\n(billions of US$)[3]": "$3.24"
+    },
+    {
+      "Rank": 91,
+      "bankName": "Atlantic Union Bank",
+      "Headquarters location": "Richmond, Virginia",
+      "Total assets\n(billions of US$)[2]": "$19.90",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 92,
+      "bankName": "Ameris Bancorp",
+      "Headquarters location": "Atlanta, Georgia",
+      "Total assets\n(billions of US$)[2]": "$19.80",
+      "Market capitalization\n(billions of US$)[3]": "$2.98"
+    },
+    {
+      "Rank": 93,
+      "bankName": "Cathay Bank",
+      "Headquarters location": "Los Angeles, California",
+      "Total assets\n(billions of US$)[2]": "$19",
+      "Market capitalization\n(billions of US$)[3]": "$2.88"
+    },
+    {
+      "Rank": 94,
+      "bankName": "Washington Federal",
+      "Headquarters location": "Seattle, Washington",
+      "Total assets\n(billions of US$)[2]": "$18.80",
+      "Market capitalization\n(billions of US$)[3]": "$2.11"
+    },
+    {
+      "Rank": 95,
+      "bankName": "IberiaBank",
+      "Headquarters location": "Lafayette, Louisiana",
+      "Total assets\n(billions of US$)[2]": "N/A",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 96,
+      "bankName": "Macy's",
+      "Headquarters location": "New York City, New York",
+      "Total assets\n(billions of US$)[2]": "$21",
+      "Market capitalization\n(billions of US$)[3]": "$4.92"
+    },
+    {
+      "Rank": 97,
+      "bankName": "CenterState Bank",
+      "Headquarters location": "Winter Haven, Florida",
+      "Total assets\n(billions of US$)[2]": "$18",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 98,
+      "bankName": "Mechanics Bank",
+      "Headquarters location": "Walnut Creek, California",
+      "Total assets\n(billions of US$)[2]": "$17",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 99,
+      "bankName": "City National Bank of Florida",
+      "Headquarters location": "Miami, Florida",
+      "Total assets\n(billions of US$)[2]": "$17",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    },
+    {
+      "Rank": 100,
+      "bankName": "Cadence Bank",
+      "Headquarters location": "Atlanta, Georgia",
+      "Total assets\n(billions of US$)[2]": "$17",
+      "Market capitalization\n(billions of US$)[3]": "N/A"
+    }
+  ]
