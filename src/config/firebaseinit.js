@@ -11,12 +11,12 @@ import { authState } from "rxfire/auth";
 
 // Set up Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDIEIhIFNHNgXY_2KTHisKQzrgnHW4OmuA",
-  authDomain: "instantbank-d1bda.firebaseapp.com",
-  projectId: "instantbank-d1bda",
-  storageBucket: "instantbank-d1bda.appspot.com",
-  messagingSenderId: "113006328336",
-  appId: "1:113006328336:web:ad8347a7f9149a66386895"
+  apiKey: "AIzaSyArfn1YE928mrurnflUSqdu7-yTjPS0STo",
+  authDomain: "alliant-96528.firebaseapp.com",
+  projectId: "alliant-96528",
+  storageBucket: "alliant-96528.appspot.com",
+  messagingSenderId: "328237117952",
+  appId: "1:328237117952:web:a725080596f7ff19d6dee5"
 };
 
 const app = initializeApp(firebaseConfig);

