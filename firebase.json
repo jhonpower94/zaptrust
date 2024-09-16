@@ -1,7 +1,7 @@
 {
   "hosting": [
     {
-      "target": "ib",
+      "target": "alliant",
       "public": "build",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
       "rewrites": [

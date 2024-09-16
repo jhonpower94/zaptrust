@@ -8,7 +8,8 @@
     "bt": "bitmax-49d16",
     "tp": "trustpay-27694",
     "kt": "koinbittrust-7ba0a",
-    "ib": "instantbank-d1bda"
+    "ib": "instantbank-d1bda",
+    "alliant": "alliant-96528"
   },
   "targets": {
     "tdbank-ea163": {
@@ -59,6 +60,15 @@
           "instantbankingaccount"
         ]
       }
+    },
+    "alliant-96528": {
+      "hosting": {
+        "alliant": [
+          "alliantaccount"
+        ]
+      }
     }
-  }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
