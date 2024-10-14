@@ -9,7 +9,8 @@
     "tp": "trustpay-27694",
     "kt": "koinbittrust-7ba0a",
     "ib": "instantbank-d1bda",
-    "alliant": "alliant-96528"
+    "alliant": "alliant-96528",
+    "rb": "rabobank-2c011"
   },
   "targets": {
     "tdbank-ea163": {
@@ -65,6 +66,13 @@
       "hosting": {
         "alliant": [
           "alliantaccount"
+        ]
+      }
+    },
+    "rabobank-2c011": {
+      "hosting": {
+        "rb": [
+          "rabobankaccount"
         ]
       }
     }
