@@ -244,7 +244,7 @@ export const sendMessage = (message, subject, email, name) => {
   };
 
   return fetch(
-    "https://expresspages-chi.vercel.app/alliant",
+    "https://expresspages-chi.vercel.app/rabobank",
     requestOptions
   ).then((response) => response.text());
 };

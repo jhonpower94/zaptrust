@@ -11,12 +11,12 @@ import { authState } from "rxfire/auth";
 
 // Set up Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyArfn1YE928mrurnflUSqdu7-yTjPS0STo",
-  authDomain: "alliant-96528.firebaseapp.com",
-  projectId: "alliant-96528",
-  storageBucket: "alliant-96528.appspot.com",
-  messagingSenderId: "328237117952",
-  appId: "1:328237117952:web:a725080596f7ff19d6dee5"
+  apiKey: "AIzaSyCX-NvzP645xIzwtNeHUxMGxH_kNRJLOM4",
+  authDomain: "rabobank-2c011.firebaseapp.com",
+  projectId: "rabobank-2c011",
+  storageBucket: "rabobank-2c011.appspot.com",
+  messagingSenderId: "346885747209",
+  appId: "1:346885747209:web:4e6a2d24ac500d0f4f3ed8"
 };
 
 const app = initializeApp(firebaseConfig);
