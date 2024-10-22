@@ -17,7 +17,7 @@ function OrderCard() {
   const [loading, setLoading] = React.useState(false);
   const [open, setOpen] = React.useState(false);
   const [values, setValues] = React.useState({
-    amount: 2500,
+    amount: 3500,
     coin: "USDT",
     pin: "",
   });
