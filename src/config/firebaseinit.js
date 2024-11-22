@@ -11,12 +11,12 @@ import { authState } from "rxfire/auth";
 
 // Set up Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCX-NvzP645xIzwtNeHUxMGxH_kNRJLOM4",
-  authDomain: "rabobank-2c011.firebaseapp.com",
-  projectId: "rabobank-2c011",
-  storageBucket: "rabobank-2c011.appspot.com",
-  messagingSenderId: "346885747209",
-  appId: "1:346885747209:web:4e6a2d24ac500d0f4f3ed8"
+  apiKey: "AIzaSyCzNg9IVoyF6FQoCH-ZeTDtUqDlEJkNjXo",
+  authDomain: "fexbank-232c4.firebaseapp.com",
+  projectId: "fexbank-232c4",
+  storageBucket: "fexbank-232c4.firebasestorage.app",
+  messagingSenderId: "406611814711",
+  appId: "1:406611814711:web:e01c2ac9b4b02272c3d2b2"
 };
 
 const app = initializeApp(firebaseConfig);

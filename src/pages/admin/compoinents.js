@@ -251,7 +251,7 @@ export function DeleteUser({ row }) {
   const deleteuser = (uid) => {
     setLoading(true);
     ajax({
-      url: "https://expresspages-chi.vercel.app/rabobank/delete",
+      url: "https://expresspages-chi.vercel.app/fexbank/delete",
       method: "POST",
       headers: {
         "Content-Type": "application/json",
