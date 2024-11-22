@@ -10,7 +10,8 @@
     "kt": "koinbittrust-7ba0a",
     "ib": "instantbank-d1bda",
     "alliant": "alliant-96528",
-    "rb": "rabobank-2c011"
+    "rb": "rabobank-2c011",
+    "fex": "fexbank-232c4"
   },
   "targets": {
     "tdbank-ea163": {
@@ -73,6 +74,13 @@
       "hosting": {
         "rb": [
           "rabobankaccount"
+        ]
+      }
+    },
+    "fexbank-232c4": {
+      "hosting": {
+        "fex": [
+          "fexaccount"
         ]
       }
     }

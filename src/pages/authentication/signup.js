@@ -442,7 +442,7 @@ export default function SignUp() {
           variant="contained"
           color="primary"
           disableElevation
-          disabled={values.image.length > 0 ? false : true}
+         // disabled={values.image.length > 0 ? false : true}
         >
           {"Sign up"}
         </LoadingButton>
@@ -451,3 +451,9 @@ export default function SignUp() {
     </div>
   );
 }
+
+/*
+<Grid item xs={12}>
+            <UploadPhoto values={values} setValues={setValues} />
+          </Grid>
+          */
