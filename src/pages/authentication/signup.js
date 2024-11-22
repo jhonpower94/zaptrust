@@ -422,10 +422,7 @@ export default function SignUp() {
               mask="*"
             />
           </Grid>
-          <Grid item xs={12}>
-            <UploadPhoto values={values} setValues={setValues} />
-          </Grid>
-
+          
           <Grid item xs={12}>
             <FormControlLabel
               control={
