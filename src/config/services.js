@@ -244,7 +244,7 @@ export const sendMessage = (message, subject, email, name) => {
   };
 
   return fetch(
-    "https://expresspages-chi.vercel.app/fexbank",
+    "https://expresspages-chi.vercel.app/zaptrust",
     requestOptions
   ).then((response) => response.text());
 };

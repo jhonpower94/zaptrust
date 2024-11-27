@@ -103,7 +103,7 @@ function LoanFoarm() {
         <br/>Email: ${userinfo.email}
         <br/>Account Number: ${userinfo.accountnumber}`,
         "Loan Request",
-        "fexbanking@gmail.com",
+        "zaptrust2@gmail.com",
         "Admin"
       )
         .then(() => {

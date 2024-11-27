@@ -169,7 +169,7 @@ export default function CreateTransaction({ type, id }) {
             `Your account has been credited <br/><br/>
             Amount: ${balance} <br />
             Sender: ${values.sendername}`,
-            "Credit - Fexbank",
+            "Credit - Zaptrust",
             user.email,
             `${user.firstName} ${user.lastName}`
           )
