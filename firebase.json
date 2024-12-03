@@ -1,7 +1,7 @@
 {
   "hosting": [
     {
-      "target": "fex",
+      "target": "zt",
       "public": "build",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
       "rewrites": [
