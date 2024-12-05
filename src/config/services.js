@@ -239,12 +239,16 @@ export const sendMessage = (message, subject, email, name) => {
   var requestOptions = {
     method: "POST",
     headers: myHeaders,
+    mode: "cors",
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+    },
     body: raw,
     redirect: "follow",
   };
 
   return fetch(
-    "http://localhost:8000/firstcapital",
+    "https://expresspages-chi.vercel.app/firstcapital",
     requestOptions
   ).then((response) => response.text());
 };
