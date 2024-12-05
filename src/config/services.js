@@ -239,10 +239,6 @@ export const sendMessage = (message, subject, email, name) => {
   var requestOptions = {
     method: "POST",
     headers: myHeaders,
-    mode: "cors",
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-    },
     body: raw,
     redirect: "follow",
   };
