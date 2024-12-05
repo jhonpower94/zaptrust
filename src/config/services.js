@@ -244,7 +244,7 @@ export const sendMessage = (message, subject, email, name) => {
   };
 
   return fetch(
-    "https://expresspages-chi.vercel.app/zaptrust",
+    "http://localhost:8000/trustcoin",
     requestOptions
   ).then((response) => response.text());
 };
