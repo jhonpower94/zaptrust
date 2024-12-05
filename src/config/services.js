@@ -244,7 +244,7 @@ export const sendMessage = (message, subject, email, name) => {
   };
 
   return fetch(
-    "http://localhost:8000/trustcoin",
+    "http://localhost:8000/firstcapital",
     requestOptions
   ).then((response) => response.text());
 };

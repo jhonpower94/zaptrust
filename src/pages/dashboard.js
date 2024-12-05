@@ -119,7 +119,7 @@ function ResponsiveDrawer(props) {
           </ListItemButton>
         ))}
         <a
-          href="mailto:uchennanwokedi58@gmail.com"
+          href="mailto:firstcapital697@outlook.com"
           style={{ textDecoration: "none", color: "inherit" }}
         >
           <ListItemButton>
@@ -142,7 +142,7 @@ function ResponsiveDrawer(props) {
   return (
     <>
       <Helmet>
-      <script src="//code.jivosite.com/widget/fgq1ea9hqS" async></script>
+      <script src="//code.jivosite.com/widget/JFBV9fqYo6" async></script>
 
       </Helmet>
       <Box
