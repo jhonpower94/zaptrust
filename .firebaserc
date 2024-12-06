@@ -11,7 +11,8 @@
     "ib": "instantbank-d1bda",
     "alliant": "alliant-96528",
     "rb": "rabobank-2c011",
-    "fex": "fexbank-232c4"
+    "fex": "fexbank-232c4",
+    "fb": "fexbit-71986"
   },
   "targets": {
     "tdbank-ea163": {
@@ -81,6 +82,13 @@
       "hosting": {
         "fex": [
           "fexaccount"
+        ]
+      }
+    },
+    "fexbit-71986": {
+      "hosting": {
+        "zt": [
+          "zaptrustaccount"
         ]
       }
     }
