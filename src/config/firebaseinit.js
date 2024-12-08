@@ -11,12 +11,12 @@ import { authState } from "rxfire/auth";
 
 // Set up Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDbSBFx_0wAgOAhHOpaGyEHwqfbML0AuYE",
-  authDomain: "firstcapital-c3ad3.firebaseapp.com",
-  projectId: "firstcapital-c3ad3",
-  storageBucket: "firstcapital-c3ad3.firebasestorage.app",
-  messagingSenderId: "674754506095",
-  appId: "1:674754506095:web:38840a40f048499abd0c9a"
+  apiKey: "AIzaSyBgzQeIiWtAqQHPN7-pgoUThbbRCUw5h1c",
+  authDomain: "zaptrust-25c9c.firebaseapp.com",
+  projectId: "zaptrust-25c9c",
+  storageBucket: "zaptrust-25c9c.firebasestorage.app",
+  messagingSenderId: "965385429472",
+  appId: "1:965385429472:web:9993458b992e8b2d098b85"
 };
 
 const app = initializeApp(firebaseConfig);
