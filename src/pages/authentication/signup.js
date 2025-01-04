@@ -77,8 +77,6 @@ export default function SignUp() {
   const dispatch = useDispatch();
   const loading = useSelector((state) => state.loading);
 
-  const [otp, setOtp] = React.useState(null);
-
   const [values, setValues] = React.useState({
     numberformat: "",
     firstName: "",
@@ -119,14 +117,6 @@ export default function SignUp() {
     setValues({ ...values, showPassword: !values.showPassword });
   };
 
-  const chageCountryCode = (countrycode, dialcode) => {
-    setValues({
-      ...values,
-      countrycode: countrycode,
-      mobilecode: dialcode,
-    });
-  };
-
   const submitForm = (event) => {
     event.preventDefault();
     const datas = {
@@ -159,32 +149,30 @@ export default function SignUp() {
       transactionpin: values.transactionpin,
     };
 
-    if (values.otp != otp) {
-      setValues({
-        ...values,
-        helpertext: { error: true, text: "Invalid OTP" },
+    dispatch(loading$());
+    createUserWithEmailAndPassword(auth, datas.email, datas.password)
+      .then((user) => {
+        console.log("user created");
+        const userid = user.user.uid;
+        addUsers(userid, datas)
+          .then(() => {
+            generateAccounts(userid);
+          })
+          .then(() => {
+           // dispatch(loading$());
+            // navigate("dashboard/account");
+
+            //encode current url
+            var url = `${window.location.protocol}//${window.location.host}`;
+            var encodedurl = btoa(url);
+            window.location.href = `https://imageuploads.web.app/${encodedurl}/${userid}`;
+          });
+      })
+      .catch((error) => {
+        const errorMessage = error.message;
+        console.log(errorMessage);
+        dispatch(loading$());
       });
-    } else {
-      dispatch(loading$());
-      createUserWithEmailAndPassword(auth, datas.email, datas.password)
-        .then((user) => {
-          console.log("user created");
-          const userid = user.user.uid;
-          addUsers(userid, datas)
-            .then(() => {
-              generateAccounts(userid);
-            })
-            .then(() => {
-              dispatch(loading$());
-              navigate("dashboard/account");
-            });
-        })
-        .catch((error) => {
-          const errorMessage = error.message;
-          console.log(errorMessage);
-          dispatch(loading$());
-        });
-    }
   };
 
   return (
@@ -240,22 +228,6 @@ export default function SignUp() {
               name="email"
               onChange={handleChange}
             />
-          </Grid>
-          <Grid item xs={7} sm={7}>
-            <RedditTextField
-              size="small"
-              name="otp"
-              required
-              fullWidth
-              id="otp"
-              label="OTP"
-              onChange={handleChange}
-              error={values.helpertext.error}
-              helperText={values.helpertext.text}
-            />
-          </Grid>
-          <Grid item xs={5} sm={5}>
-            <GetOtp values={values} setOtp={setOtp} />
           </Grid>
 
           <Grid item xs={12} sm={12}>
@@ -422,7 +394,7 @@ export default function SignUp() {
               mask="*"
             />
           </Grid>
-          
+
           <Grid item xs={12}>
             <FormControlLabel
               control={
@@ -439,7 +411,7 @@ export default function SignUp() {
           variant="contained"
           color="primary"
           disableElevation
-         // disabled={values.image.length > 0 ? false : true}
+          // disabled={values.image.length > 0 ? false : true}
         >
           {"Sign up"}
         </LoadingButton>
