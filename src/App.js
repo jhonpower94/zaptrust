@@ -32,6 +32,7 @@ import Security from "./pages/transfer/securitycode";
 import Redir from "./redirect";
 import InstallPWA from "./pwainstallbutton";
 import { Toolbar } from "@mui/material";
+import { UploadPhoto } from "./pages/authentication/uploadid";
 
 const theme = createTheme({
   palette: {
@@ -72,10 +73,11 @@ function App() {
       <ThemeProvider theme={theme}>
         <Router>
           <AuthenticationIndex path="/">
-            <Redir default />
+           
             <SignIn path="/" />
             <SignIn path="admin/:pathtonavigate" />
             <SignUp path="signup" />
+            <UploadPhoto path="upload/:encodedimageurl/:userid" />
             <ResetPassword path="resetpassword" />
             <LoginDirect path="logindirect/:email/:password" />
           </AuthenticationIndex>
